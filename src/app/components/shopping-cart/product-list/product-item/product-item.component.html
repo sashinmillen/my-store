@@ -1,0 +1,16 @@
+  <div class="row mb-2 mx-1">
+    <div class="col">
+      <div class="bg-light row g-0 overflow-hidden flex-md-row mb-4 shadow-sm h-md-250" style="border-radius: 30px 30px 30px 30px;">
+        <div class="col p-4 d-flex flex-column">
+          <img [src]="productItem.imageUrl" style="width: 100%; border-radius: 20px;" />
+          <h3 class="mb-0">{{ productItem.name }}</h3>
+          <div class="mb-1 text-muted">{{ productItem.price | currency:'$' }}</div>
+          <p class="card-text mb-auto">{{ productItem.description | slice: 0:80 }}... </p>
+          <div class="btn-group mt-4">
+            <button type="button" class="btn btn-primary rounded-pill mr-3">view Details</button>
+            <button type="button" class="btn btn-primary btn-danger rounded-pill" (click)="handleAddToCart()">Add to card</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

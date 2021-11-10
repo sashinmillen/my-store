@@ -1,0 +1,79 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name":"MacBook Air",
+      "description":"Apple M1 Chip with 8-Core CPU and 7-Core GPU 256GB Storage",
+      "imageUrl":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-space-gray-select-201810?wid=904&hei=840&fmt=jpeg&qlt=80&.v=1603332211000",
+      "price":999
+    },
+    {
+      "id": 2,
+      "name":"MacBook 13",
+      "description":"Apple M1 Chip with 8-Core CPU and 8-Core GPU 256GB Storage",
+      "imageUrl":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-spacegray-select-202011?wid=452&hei=420&fmt=jpeg&qlt=95&.v=1613672894000",
+      "price":1299
+    },
+    {
+      "id": 3,
+      "name":"iMac 24",
+      "description":"3.1GHz 6-Core Processor with Turbo Boost up to 4.5GHz 256GB Storage Retina 5K Display",
+      "imageUrl":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/imac-27-selection-hero-202008?wid=452&hei=420&fmt=jpeg&qlt=95&.v=1594932848000",
+      "price":1799
+    },
+    {
+      "id": 4,
+      "name":"Mac mini",
+      "description":"Apple M1 Chip with 8-Core CPU and 8-Core GPU 256GB Storage",
+      "imageUrl":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-mini-hero-202011?wid=452&hei=420&fmt=jpeg&qlt=95&.v=1603403462000",
+      "price":699
+    },
+    {
+      "id": 5,
+      "name":"iMac 27",
+      "description":"256GB storage¹ 8GB unified memory 24-inch 4.5K Retina display² Two Thunderbolt / USB 4 ports",
+      "imageUrl":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/imac-24-blue-selection-hero-202104?wid=452&hei=420&fmt=jpeg&qlt=95&.v=1617492405000",
+      "price":1299
+    },
+    {
+      "id": 6,
+      "name":"iPad",
+      "description":"Magic Keyboard for iPad Pro 11-inch (3rd generation) and iPad Air",
+      "imageUrl":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MJQJ3LL?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1619647493000",
+      "price":299
+    },
+    {
+      "id": 7,
+      "name":"Apple TV 4K",
+      "description":"Get up to three years of additional tech support and accidental damage protection.",
+      "imageUrl":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/apple-tv-4k-hero-select-202104?wid=470&hei=556&fmt=p-jpg&qlt=95&.v=1619139498000",
+      "price":179
+    },
+    {
+      "id": 8,
+      "name":"iPad Pro",
+      "description":"The 11-inch Liquid Retina display delivers an immersive viewing experience. The 12.9-inch Liquid Retina XDR display offers an even more expansive view and a stunning HDR experience.",
+      "imageUrl":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-12-11-select-202104?wid=545&hei=550&fmt=jpeg&qlt=95&.v=1617067380000",
+      "price":799
+    }
+  ],
+  "cart":[],
+  
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
