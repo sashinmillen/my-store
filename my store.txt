@@ -1,0 +1,9 @@
+In this video, we will try to make add to cart feature in angular. We will also try to design UI like Flipkart.
+
+We take free Sessions on .Net Full stack training, if you guys are interested then you can join the telegram channel to get all the updates on the training sessions.
+
+Fake store API : https://fakestoreapi.com/products/
+
+
+
+https://www.youtube.com/watch?v=855KrFfF9-w
